@@ -1,0 +1,7 @@
+modules/
+.env
+*.logs
+*.zip
+*.log
+*error.log*
+*debug.log*
